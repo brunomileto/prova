@@ -1,0 +1,15 @@
+{
+    "SETUPS_PATH": "\\\\srv-svn\\Setups\\Instaladores\\OnPremises\\Produtos",
+    "DESTINATION_FOLDER": "D:\\Documentos\\LG_DEV\\Setups\\20223",
+    "VERSIONS": [
+        "2021.1",
+        "2021.2",
+        "2021.3",
+        "2021.4",
+        "2021.5",
+        "2021.6",
+        "2022.1",
+		"2022.2",
+		"2022.3"
+    ]
+}
